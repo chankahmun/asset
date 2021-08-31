@@ -1,0 +1,81 @@
+{
+	"contact_list":[
+		{
+			"center": "Sungai Way PJ",
+			"address": "Dewan Serbaguna Seri Setia, 2nd floor",
+			"pic": "Ms. Wong",
+			"p_no":"012-7838916",
+			"day":"Every Tuesday & Wednesday",
+			"time": "8.00pm - 9.30pm"
+		},
+		{
+			"center": "Sungai Long PJ",
+			"address": "No 1, Jalan SL7/1,  Bandar Sungai Long, 43000, Kajang Selangor",
+			"pic": "Mr. Chan",
+			"p_no":"014-9245501",
+			"day":"Every Tuesday & Wednesday",
+			"time": "8.00pm - 9.30pm"
+		},
+		{
+			"center": "Wangsa Maju KL",
+			"address": "22a, Level 1, M3 Mall",
+			"pic": "Mr. Teo",
+			"p_no":"017-7894250",
+			"day":"Every Monday",
+			"time": "8.00pm - 9.30pm"
+		},
+		{
+			"center": "Kampar",
+			"address": "21A, Persiaran Batu Karang, Tmn Kolej Perdana, 31900, Perak",
+			"pic": "Mr. Loh",
+			"p_no":"016-8011098",
+			"day":"Every Monday & Tuesday",
+			"time": "7.00pm - 9.00pm"
+		},
+		{
+			"center": "Penang",
+			"address": "61-C-2 & 61-D-3, University Shoplot, Sg Dua, 11700 Gelugor, Penang",
+			"pic": "Ms. Yeam",
+			"p_no":"012-5141098",
+			"day":"Every Monday",
+			"time": "7.30pm - 9.30pm"
+		},
+		{
+			"center": "Johor Bahru",
+			"address": "12, Jalan Sejahtera 14, Taman Desa Skudai, Johor Bahru",
+			"pic": "Ms. Chong",
+			"p_no":"018-3811019",
+			"day":"Every Tuesday",
+			"time": "7.00pm - 9.30pm"
+		},
+		{
+			"center": "Seremban",
+			"address": "3641, Jalan RJ 5/17, Taman Rasah Jaya, 70300 Seremban.",
+			"pic": "Mr. Ding",
+			"p_no":"011-31919018",
+			"day":"Every Saturday",
+			"time": "8.00pm - 9.30pm"
+		},
+		{
+			"center": "Sarawak",
+			"address": "1st floor, sblot 51, Ph 25, Block 1, Desa Ilmu, 94300, Kota Samarahan",
+			"pic": "Mr. Simon",
+			"p_no":"014-6236296",
+			"day":"Every Tuesday",
+			"time": "7.30pm - 9.30pm"
+		},
+		{
+			"center": "YongPeng & Segamat",
+			"address": "No. 1959, Jln Rambutan, Taman Wangi, 83700, Yong Peng, Johor",
+			"pic": "Mr. Kong",
+			"p_no":"011-10946393",
+			"day":"Every Monday & Thurday",
+			"time": "8.00pm - 9.30pm"
+		}
+	
+	
+	
+	]
+	
+
+} 
