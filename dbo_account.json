@@ -1,0 +1,12 @@
+[
+	{
+		"user": "xiaoming",
+		"password": "123456",
+		"role": "user"
+	},
+	{
+		"user": "xiaolong",
+		"password": "qazwsx",
+		"admin":"admin"
+	}
+]
