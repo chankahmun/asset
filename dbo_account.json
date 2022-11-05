@@ -7,6 +7,6 @@
 	{
 		"user": "xiaolong",
 		"password": "qazwsx",
-		"admin":"admin"
+		"role":"admin"
 	}
 ]
